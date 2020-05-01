@@ -1,0 +1,3 @@
+/root/oop/pooii-tarea-3-entrega-01-05-davento/build/CMakeFiles/rebuild_cache.dir
+/root/oop/pooii-tarea-3-entrega-01-05-davento/build/CMakeFiles/tarea3.dir
+/root/oop/pooii-tarea-3-entrega-01-05-davento/build/CMakeFiles/edit_cache.dir
