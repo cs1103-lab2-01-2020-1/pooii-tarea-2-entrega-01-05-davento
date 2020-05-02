@@ -4,12 +4,22 @@
 CMakeFiles/tarea3.dir/src/ejercicios.cpp.o
  /root/oop/pooii-tarea-3-entrega-01-05-davento/src/ejercicios.cpp
  /root/oop/pooii-tarea-3-entrega-01-05-davento/src/ejercicios.h
+ /root/oop/pooii-tarea-3-entrega-01-05-davento/src/ex1/logistic.h
+ /root/oop/pooii-tarea-3-entrega-01-05-davento/src/ex1/order.h
+ /root/oop/pooii-tarea-3-entrega-01-05-davento/src/ex1/product.h
+ /root/oop/pooii-tarea-3-entrega-01-05-davento/src/ex1/user.h
+ /root/oop/pooii-tarea-3-entrega-01-05-davento/src/ex1/vehicle.h
  /root/oop/pooii-tarea-3-entrega-01-05-davento/src/lib.h
  /root/oop/pooii-tarea-3-entrega-01-05-davento/src/myStack.h
  /root/oop/pooii-tarea-3-entrega-01-05-davento/src/myStackT.h
  /root/oop/pooii-tarea-3-entrega-01-05-davento/src/util.h
 CMakeFiles/tarea3.dir/src/main.cpp.o
  /root/oop/pooii-tarea-3-entrega-01-05-davento/src/ejercicios.h
+ /root/oop/pooii-tarea-3-entrega-01-05-davento/src/ex1/logistic.h
+ /root/oop/pooii-tarea-3-entrega-01-05-davento/src/ex1/order.h
+ /root/oop/pooii-tarea-3-entrega-01-05-davento/src/ex1/product.h
+ /root/oop/pooii-tarea-3-entrega-01-05-davento/src/ex1/user.h
+ /root/oop/pooii-tarea-3-entrega-01-05-davento/src/ex1/vehicle.h
  /root/oop/pooii-tarea-3-entrega-01-05-davento/src/lib.h
  /root/oop/pooii-tarea-3-entrega-01-05-davento/src/main.cpp
  /root/oop/pooii-tarea-3-entrega-01-05-davento/src/myStack.h

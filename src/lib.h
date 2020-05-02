@@ -4,6 +4,7 @@
 #include <iostream>
 #include <algorithm>
 #include <list>
+#include <vector>
 using namespace std;
 
 #endif

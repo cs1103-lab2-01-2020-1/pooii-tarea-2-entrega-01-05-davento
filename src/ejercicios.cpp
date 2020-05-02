@@ -3,6 +3,22 @@
 void	ejercicio1()
 {
 	cout<<"Ejercicio 1"<<endl;
+
+	logistic	sis;
+	user	a("Kiki", "Avenida Los Frutales", "Tarjeta");
+	truck	vroom("Fran", "OLA789");
+	bike	nyoom("Leo");
+	product	soap("Jabon", 3);
+	product bread("Pan", 1);
+	user	b("Moca", "Avenida 2 de Mayo", "Efectivo");
+	
+	sis.registerUser(a);
+	sis.registerUser(b);
+	sis.registerVehicle(vroom);
+	sis.registerVehicle(nyoom);
+	sis.takeOrder(a, vroom, soap);
+	sis.takeOrder(b, nyoom, bread);
+
 }
 
 void	ejercicio2()

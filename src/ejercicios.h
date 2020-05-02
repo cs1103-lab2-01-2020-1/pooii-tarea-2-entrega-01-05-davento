@@ -4,6 +4,7 @@
 #include "myStack.h"
 #include "myStackT.h"
 #include "util.h"
+#include "ex1/logistic.h"
 
 void	ejercicio1();
 void	ejercicio2();

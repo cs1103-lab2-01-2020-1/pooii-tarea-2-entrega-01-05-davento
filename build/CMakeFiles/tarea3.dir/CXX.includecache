@@ -17,6 +17,30 @@ myStackT.h
 /root/oop/pooii-tarea-3-entrega-01-05-davento/src/myStackT.h
 util.h
 /root/oop/pooii-tarea-3-entrega-01-05-davento/src/util.h
+ex1/logistic.h
+/root/oop/pooii-tarea-3-entrega-01-05-davento/src/ex1/logistic.h
+
+/root/oop/pooii-tarea-3-entrega-01-05-davento/src/ex1/logistic.h
+user.h
+/root/oop/pooii-tarea-3-entrega-01-05-davento/src/ex1/user.h
+
+/root/oop/pooii-tarea-3-entrega-01-05-davento/src/ex1/order.h
+product.h
+/root/oop/pooii-tarea-3-entrega-01-05-davento/src/ex1/product.h
+vehicle.h
+/root/oop/pooii-tarea-3-entrega-01-05-davento/src/ex1/vehicle.h
+
+/root/oop/pooii-tarea-3-entrega-01-05-davento/src/ex1/product.h
+../lib.h
+/root/oop/pooii-tarea-3-entrega-01-05-davento/src/lib.h
+
+/root/oop/pooii-tarea-3-entrega-01-05-davento/src/ex1/user.h
+order.h
+/root/oop/pooii-tarea-3-entrega-01-05-davento/src/ex1/order.h
+
+/root/oop/pooii-tarea-3-entrega-01-05-davento/src/ex1/vehicle.h
+../lib.h
+/root/oop/pooii-tarea-3-entrega-01-05-davento/src/lib.h
 
 /root/oop/pooii-tarea-3-entrega-01-05-davento/src/lib.h
 iostream
@@ -24,6 +48,8 @@ iostream
 algorithm
 -
 list
+-
+vector
 -
 
 /root/oop/pooii-tarea-3-entrega-01-05-davento/src/main.cpp
